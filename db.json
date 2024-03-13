@@ -34,6 +34,28 @@
         "age": 27,
         "city": "Chennai"
 
+    },
+     "koushik@gmail.com":{
+        "firstname": "Koushik",
+        "lastname": "Kumar",
+        "mobile":  "98765432112",
+        "age": 20,
+        "city": "Hyderabad"
+
+    },
+     "aaron@gmail.com":{
+        "firstname": "Aaron",
+        "lastname": "Richards",
+        "mobile":  "74196385245",
+        "age": 21,
+        "city": "Hyderabad"
+    },
+     "cathy@gmail.com":{
+        "firstname": "Cathy",
+        "lastname": "Susan",
+        "mobile":  "9437684210",
+        "age": 20,
+        "city": "Banglore"
     }
         
 }
