@@ -33,5 +33,34 @@
         "mobile":  "78945612312",
         "age": 27,
         "city": "Chennai"
+    },
+    "koushik@gmail.com":{
+        "firstname": "Koushik",
+        "lastname": "Reddy",
+        "mobile": "74185296310",
+        "age": 20,
+        "city": "Mumbai"
+    },
+    "charan@gmail.com":{
+        "firstname": "Charan",
+        "lastname": "Kumar",
+        "mobile": "96385274101",
+        "age": 25,
+        "city": "Pune"
+    },
+    "aaron@gmail.com":{
+        "firstname": "Aaron",
+        "lastname": "Richards",
+        "mobile": "65498732132",
+        "age": 21,
+        "city": "Hyderabad"
+    },
+    "abdul@gmail.com":{
+        "firstname": "Abdul",
+        "lastname": "Mohammad",
+        "mobile": 95135798426,
+        "age": 20,
+        "city": "Bangalore"
     }
+        
 }
