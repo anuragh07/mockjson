@@ -26,5 +26,12 @@
         "mobile":  "3012345678",
         "age": 27,
         "city": "Chennai"
+    },
+    "deepa@gmail.com":{
+        "firstname": "Deepa",
+        "lastname": "Verma",
+        "mobile":  "3012345678",
+        "age": 27,
+        "city": "Chennai"
     }
 }
